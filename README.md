@@ -18,7 +18,7 @@ The project answers key questions about classification accuracy, the detectabili
 ## Project Structure
 
 ### **01 Project Management**  
-Contains the official project brief describing ClimateWins’ objectives:
+Contains the official project brief describing ClimateWins’ objectives
 
 ---
 
